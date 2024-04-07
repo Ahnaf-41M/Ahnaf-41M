@@ -7,7 +7,7 @@
 
 - 📫 Reach me **md.ahnaf.muttaqi@gmail.com**
 
-- 📄 Review my resume: https://drive.google.com/file/d/1IgG_Ne2NzFuc2CXln0sEeIPRE9nnThVp/view?usp=drive_link
+- 📄 Review my resume: https://drive.google.com/file/d/1hSkgqRyNaYTCoRLYzJXA85gBwlkOQgsL/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahnaf-41m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf-41m" height="30" width="40" /></a>
