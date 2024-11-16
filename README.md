@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-41m&label=Profile%20views&color=0e75b6&style=flat" alt="ahnaf-41m" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Rails Framework**
 
 - 📫 Reach me **md.ahnaf.muttaqi@gmail.com**
 
