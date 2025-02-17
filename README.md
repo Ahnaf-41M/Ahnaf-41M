@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahnaf!</h1>
-<h3 align="center">A Computer Science Undergrad from Bangladesh</h3>
+<h3 align="center">A Computer Science Graduate from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-41m&label=Profile%20views&color=0e75b6&style=flat" alt="ahnaf-41m" /> </p>
 
